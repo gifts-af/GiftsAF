@@ -1,3 +1,5 @@
+> **This repo has moved.** The gift list now lives in [gifts-af/gift-me](https://github.com/gifts-af/gift-me) as `apps/web/modules/lists`, and deploys from there. This repo is archived (read-only) and kept for history.
+
 # GiftMe.com
 
 A proof-of-concept gift wishlist. Build a list of gifts you'd actually like to receive, adding each
